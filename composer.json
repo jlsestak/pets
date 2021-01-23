@@ -1,0 +1,16 @@
+{
+  "name": "smehri/328/Pets1",
+  "authors": [
+    {
+    "name":"Jessica Sestak",
+    "email": "jsestak2@mail.greenriver.edu"
+    },
+    {
+      "name":"Joseph Igama",
+      "email": "jigama2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
